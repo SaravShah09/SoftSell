@@ -76,6 +76,7 @@ Frontend (Netlify): https://credexsoftsell.netlify.app/
 
 Backend (Render): https://softsell-suxj.onrender.com 
 
-GitHub Repo: 
+GitHub Repo: https://github.com/SaravShah09/SoftSell.git
+
 License
 This project is open source and licensed under the MIT License.
