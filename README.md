@@ -1,12 +1,81 @@
-# React + Vite
+SoftSell – Credex Internship Assignment
+This is a single-page responsive marketing website built as part of the Credex Web Development Internship Assignment. The fictional company, SoftSell, helps people sell unused software licenses easily.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features Implemented
+Hero Section
 
-Currently, two official plugins are available:
+Headline, subheading, and CTA button ("Sell My Licenses")
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How It Works
 
-## Expanding the ESLint configuration
+Three steps: Upload License → Get Valuation → Get Paid
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Visual icons used for each step
+
+Why Choose Us
+
+Four points explaining benefits with icons
+
+Customer Testimonials
+
+Two dummy reviews with name, role, and company
+
+Contact / Lead Form
+
+Fields: Name, Email, Company, License Type, Message
+
+Frontend validation only
+
+Bonus Features
+Light and dark mode toggle
+
+AI-powered chat using OpenAI API
+
+SEO meta tags and favicon
+
+Basic animations and transitions
+
+Responsive across mobile and desktop
+
+Tech Stack
+Frontend: React.js with Vite
+
+Styling: Tailwind CSS
+
+Backend: Node.js with Express (for AI chat only)
+
+Hosting:
+
+Frontend on Netlify
+
+Backend on Render
+
+Design Choices
+Clean and simple layout with modern look
+
+Mobile responsive design
+
+Violet and black theme
+
+Tailwind used for quick development
+
+Focused on usability and clarity
+
+Time Spent
+Task	Time
+Layout Planning and Wireframe	1 hr
+Frontend Development	5 hrs
+AI Chat Integration	2 hrs
+Backend Setup on Render	2 hrs
+Testing and Deployment	2 hrs
+GitHub and Documentation	1 hr
+Total	~13 hrs
+
+Live Project
+Frontend (Netlify): https://credexsoftsell.netlify.app/ 
+
+Backend (Render): https://softsell-suxj.onrender.com 
+
+GitHub Repo: 
+License
+This project is open source and licensed under the MIT License.
