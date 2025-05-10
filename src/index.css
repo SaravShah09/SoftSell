@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Optional: override colors for dark mode */
+body.dark {
+  @apply bg-gray-900 text-white;
+}
+
+body {
+  transition: background 0.3s ease, color 0.3s ease;
+}
