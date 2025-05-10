@@ -22,7 +22,7 @@ function ChatWidget() {
     setIsLoading(true);
 
     try {
-const response = await fetch('https://sotsell-1.onrender.com/api/chat', {
+const response = await fetch('https://softsell-suxj.onrender.com/api/chat', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
